@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - ✨ Achievements
   - First Prize in National Undergraduate Electronic Design Contest: https://github.com/RaymondMeng/Electronic-Design-Contest (*co-author)
-  - National Silver Award of the Chinese College Students Engineering Practice and Innovation Ability Competition. I deployed yolov3 on jetson nano and trained our own model (@RaymondMeng).
+  - National Silver Award of the Chinese College Students Engineering Practice and Innovation Ability Competition. I deployed yolov4-tiny on jetson nano and trained our own model (@RaymondMeng).
   - Third Prize of China Software Cup. Project: https://github.com/dwdwdw5163/Qt_ncnn_opencv 
   
 ### Hi🙋‍♂️
