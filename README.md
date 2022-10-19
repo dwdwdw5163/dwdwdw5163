@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 ![dwdwdw5163's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwdwdw5163&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwdwdw5163&layout=compact&hide=Assembly&hide=Cuda&hide=JavaScript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwdwdw5163&layout=compact&hide=Assembly)
 
 ![](https://komarev.com/ghpvc/?username=dwdwdw516)  
