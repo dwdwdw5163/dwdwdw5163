@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on 
-  - A implementation of rhythem game in order to learn Rust, Audio analysis, vulkan and ML. Using Music Onset Detections and FFT spectrum to generate beatmaps.(https://github.com/dwdwdw5163/rust_mania)
+  - High-speed PCB design for FPGA-based high-speed signal processing system(Arbitrary Waveform Generator).
 
 
 - 🌱 I’m currently learning 
   - Pattern Recognition and Machine Learning
-  - Image Markov Random Field and its application based on FPGA
   - Rust Programming Language
   - Vulkan (Rust Bindings)
-  - Transformer
 
 - ✨ Achievements
   - First Prize in National Undergraduate Electronic Design Contest: https://github.com/RaymondMeng/Electronic-Design-Contest (*co-author)
